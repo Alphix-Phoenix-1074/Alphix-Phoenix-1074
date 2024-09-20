@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alphix-Phoenix-1074
 - 👀 I’m interested in mechatronics enginneering.
 - 🌱 I’m currently learning alot
-- 💞️ I’m looking to collaborate on anything that has to do woth video games or cyber security.
+- 💞️ I’m looking to collaborate on anything that has to do with video games or cyber security.
 - 📫 How to reach me benaiah.merewether@gmail.com
 - ⚡ Fun fact: I took CS50 at Harvard in high school.
 
